@@ -10,10 +10,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "dotenv": "^17.0.1",
     "expo": "~53.0.16",
+    "expo-location": "~18.1.6",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "react-native-maps": "1.20.1",
+    "expo-dev-client": "~5.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
